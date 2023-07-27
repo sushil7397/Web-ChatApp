@@ -51,7 +51,7 @@ npm install styled-components@^5.3.11
 4. Project Implementation Steps
 This guide provides a step-by-step process to implement the project. Please follow the instructions carefully.
 
-Frontend Implementation
+## Frontend Implementation
 
 Go to directory
 ### `cd chatapp/public`
