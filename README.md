@@ -1,4 +1,8 @@
 # Getting Started with Create React App
+[Chat LLD.pdf](https://github.com/sushil7397/Web-ChatApp/files/12182835/Chat.LLD.pdf)
+[Chat App.pdf](https://github.com/sushil7397/Web-ChatApp/files/12182833/Chat.App.pdf)
+[Chat HLD.pdf](https://github.com/sushil7397/Web-ChatApp/files/12182830/Chat.HLD.pdf)
+![ChatApp Wireframe](https://github.com/sushil7397/Web-ChatApp/assets/67103453/360d715e-af00-40e3-9684-67502ca7a8c9)
 
 ## 📃 Description
 
@@ -71,7 +75,6 @@ The backend server should now be running and ready to handle requests.
 
 
 ## 🎨Screenshots
-![ChatApp Wireframe](https://github.com/sushil7397/Web-ChatApp/assets/67103453/360d715e-af00-40e3-9684-67502ca7a8c9)
 
 ![Home](https://github.com/sushil7397/Web-ChatApp/assets/67103453/eed8c65b-ac66-4bda-931e-f66855560ea8)
 ![Signup](https://github.com/sushil7397/Web-ChatApp/assets/67103453/a2069167-dbc3-4809-baf4-98c0a541dc6e)
